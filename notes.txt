@@ -1,0 +1,8 @@
+status = 1 (masuk)
+status = 2 (pulang)
+
+•	Kalo wktu plng jam 12, trs tapping kartu jam 9 pagi statusnya gmn? 
+   pulang jam 12 jam 9 pagi tapping ('absen pulang belum diijinkan')
+•	Jika masuk jam 06.45 trs siswa dtng lebih dari jam 07.00  mka dianggap telat. Kalo telat harus ada keterangan “ lebih dari 15 menit dinyatakan terlambat”
+  
+•	Kalo yang sakit gimana? Gurunya yg masukin statusnya yang ga hadir (izin/sakit/alpa) [tetp HARUS ada data yang bisa diedit oleh gurunya] diberi tabel keterangan yang bisa diupdate
